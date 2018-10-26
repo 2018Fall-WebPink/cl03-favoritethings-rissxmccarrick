@@ -1,0 +1,20 @@
+/*
+Marissa McCarrick
+Due Date
+My Favorite Things 
+/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {background-color:peach;
+
+}
+#scuba { width:320px; height:200px;}
+#model { width:250px; height:360px;}
+#sunset { width:200px; height:100px;}
